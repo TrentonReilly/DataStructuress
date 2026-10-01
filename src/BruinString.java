@@ -1,20 +1,5 @@
 public class BruinString {
-    //data = chars (primitive)
-    //mutable
 
-    //Operations:
-    //concatenation
-    //insertAt
-    //compareTo (comparable)
-    //length
-    //remove
-    //substring
-    //sort (collections)
-    //capitalize all
-    //clone (clonable)
-
-    //implement
-    //Array
 
     private char[] data;
     private int length;
